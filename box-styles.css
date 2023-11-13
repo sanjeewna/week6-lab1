@@ -1,0 +1,91 @@
+h1, p {
+    background-color: #65a8eb;    /* Light gray */
+  }
+  
+  em, strong {
+    background-color: #B2D6FF;    /* Light blue */
+  }
+
+  em, strong {
+    background-color: #2c67ac;
+    display: block;
+  }
+  
+  h1 {
+    padding: 50px;
+    border: 1px solid #5D6063;
+  }
+
+  strong {
+    margin: 50px;
+  } 
+
+  p {
+    padding: 20px 0 20px 10px;
+  
+    margin-top: 25px;
+    margin-bottom: 50px;
+  }
+
+  div {
+    color: #FFF;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+  }
+  div {
+    /* [Existing Declarations] */
+    width: 200px;
+  }
+
+  div {
+    color: #FFF;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    
+    width: 200px;
+    box-sizing: border-box;  /* Add this */
+  }
+
+  body {
+    text-align: center;
+  }
+
+  div {
+    color: #FFF;
+    background-color: #4A90E2;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+  
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto; /* Vertical  Horizontal */
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    padding: 50px;
+  }
+
+  p {
+    padding: 20px 10px;  /* Vertical  Horizontal */
+  }
+  p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
